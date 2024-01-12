@@ -14,11 +14,11 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-echo 'src-git packages https://dl.openwrt.ai/packages-23.05/mipsel_24kc/packages' >>feeds.conf.default
-echo 'src-git luci https://dl.openwrt.ai/packages-23.05/mipsel_24kc/luci' >>feeds.conf.default
-echo 'src-git routing https://dl.openwrt.ai/packages-23.05/mipsel_24kc/routing' >>feeds.conf.default
-echo 'src-git telephony https://dl.openwrt.ai/packages-23.05/mipsel_24kc/telephony' >>feeds.conf.default
-echo 'src-git kiddin9 https://dl.openwrt.ai/packages-23.05/mipsel_24kc/kiddin9' >>feeds.conf.default
+#echo 'src-git packages https://dl.openwrt.ai/packages-23.05/mipsel_24kc/packages' >>feeds.conf.default
+#echo 'src-git luci https://dl.openwrt.ai/packages-23.05/mipsel_24kc/luci' >>feeds.conf.default
+#echo 'src-git routing https://dl.openwrt.ai/packages-23.05/mipsel_24kc/routing' >>feeds.conf.default
+#echo 'src-git telephony https://dl.openwrt.ai/packages-23.05/mipsel_24kc/telephony' >>feeds.conf.default
+#echo 'src-git kiddin9 https://dl.openwrt.ai/packages-23.05/mipsel_24kc/kiddin9' >>feeds.conf.default
 
 
 
