@@ -20,12 +20,12 @@
 #echo 'src-git telephony https://dl.openwrt.ai/packages-23.05/mipsel_24kc/telephony' >>feeds.conf.default
 #echo 'src-git kiddin9 https://dl.openwrt.ai/packages-23.05/mipsel_24kc/kiddin9' >>feeds.conf.default
 
-
+echo 'src-git smpackage https://github.com/kenzok8/small-package' >>feeds.conf.default
 
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
-echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+#echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
+#echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 #echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages' >>feeds.conf.default
 #echo 'src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2' >>feeds.conf.default
